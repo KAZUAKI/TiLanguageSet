@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: change language module for TItanium
+author: kazuaki konno
+license: Specify your license
+copyright: kazuaki konno
+
+
+# these should not be edited
+name: tilanguageset
+moduleid: kaz.ti.languageset
+guid: 9b8c0b3d-1b5f-427b-8ae1-fbe50d4c59b3
+platform: iphone
+minsdk: 2.0.2.GA
